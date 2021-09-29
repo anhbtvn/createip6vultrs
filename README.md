@@ -7,9 +7,9 @@ Redirect connections from different ports at one ipv4 address to unique random i
 - Ipv6 \64
 
 ## Installation
-VPS from [Vultr *100$ free*](https://www.vultr.com/?ref=8782247) used as Centos setup
+VPS from [Vultr *100$ free*](https://www.vultr.com/?ref=6802724) used as Centos setup
 
-1. `bash <(curl -s "https://raw.githubusercontent.com/vnzinny/facebookmarketing/master/scripts/install_centos8.sh")`
+1. `bash <(curl -s "https://raw.githubusercontent.com/anhbtvn/createip6vultrs/master/scripts/install_centos8.sh")`
 
 1. After installation dowload the file `proxy.zip`
    * File structure: `IP4:PORT:LOGIN:PASS`
